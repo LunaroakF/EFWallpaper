@@ -6,7 +6,7 @@
 ![Image text](https://github.com/LunaroakF/Images/blob/master/EFWallpaper/f1.png)
 
 ## 作用  
-为我们班一体机设置每日自动切换壁纸(倒计时)全自动软件  
+为班级一体机设置每日自动切换壁纸(倒计时)全自动软件  
 
 ## 使用方法  
 要每天开机自启的话Win+R运行一个shell:startup进入用户开机自启软件列表  
