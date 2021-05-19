@@ -22,7 +22,7 @@ NULL.png可选 是在超出范围调用的图片
 
 ## 预设图片(Pixiv & Github)
 #### 转载请注明作者，个人使用不必注明
-[蓝奏云](https://wwa.lanzous.com/b01cakzkj)提取码:ca81  
+[蓝奏云](https://www.lanzous.com/b01cakzkj)提取码:ca81  
 [Pixiv-85698754](https://www.pixiv.net/artworks/85698754)  
 ![Image text](https://github.com/LunaroakF/Images/blob/master/EFWallpaper/Backgrounds/NULL.png "NULL.png")  
 ![Image text](https://github.com/LunaroakF/Images/blob/master/EFWallpaper/Backgrounds/0.png "0.png") 
